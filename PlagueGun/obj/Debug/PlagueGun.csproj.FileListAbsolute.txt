@@ -1,0 +1,8 @@
+D:\RimWorld\Mods\PlagueGun-master\Assemblies\Plague.dll
+D:\RimWorld\Mods\PlagueGun-master\PlagueGun\obj\Debug\PlagueGun.csproj.AssemblyReference.cache
+D:\RimWorld\Mods\PlagueGun-master\PlagueGun\obj\Debug\PlagueGun.csproj.CoreCompileInputs.cache
+D:\RimWorld\Mods\PlagueGun-master\PlagueGun\obj\Debug\Plague.dll
+D:\RimWorld\Mods\PlagueGun\Assemblies\Plague.dll
+D:\RimWorld\Mods\PlagueGun\PlagueGun\obj\Debug\PlagueGun.csproj.AssemblyReference.cache
+D:\RimWorld\Mods\PlagueGun\PlagueGun\obj\Debug\PlagueGun.csproj.CoreCompileInputs.cache
+D:\RimWorld\Mods\PlagueGun\PlagueGun\obj\Debug\Plague.dll
